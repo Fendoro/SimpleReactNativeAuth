@@ -4,7 +4,7 @@ Based on course: https://www.udemy.com/the-complete-react-native-and-redux-cours
 
 ### Used Technologies
 
-JS6, react, react-native, android, firebase
+ES6, react, react-native, android, firebase
 
 ### Getting Started
 
